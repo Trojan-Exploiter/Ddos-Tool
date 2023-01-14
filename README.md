@@ -27,3 +27,4 @@ __$git clone https://github.com/Trojan-Exploiter/Ddos-Tool.git__
 
 *__$python3 ddos-trojan.py__*
 
+# Note:
