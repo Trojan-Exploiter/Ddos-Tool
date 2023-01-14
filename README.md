@@ -23,3 +23,7 @@ __$git clone https://github.com/Trojan-Exploiter/Ddos-Tool.git__
 
 *__$cd ddos-trojan__*
 
+*__$ls__*
+
+*__$python3 ddos-trojan.py__*
+
