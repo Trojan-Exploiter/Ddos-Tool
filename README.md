@@ -30,3 +30,4 @@ __$git clone https://github.com/Trojan-Exploiter/Ddos-Tool.git__
 # Note:
 If you find any problems than please write on issue github and to our Telegram Group And WhatsApp Group. Don't use for revenge! Make sure your anonymity! It's made for just testing purpose. We are not responsible for any abuse or damage caused by this program. Only for Educational Purpose. Thanks.
 
+# Requirments ▶
