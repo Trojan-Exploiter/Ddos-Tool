@@ -21,7 +21,7 @@ To use the DRipper type the following commands in Termux:
 
 __$git clone https://github.com/Trojan-Exploiter/Ddos-Tool.git__
 
-*__$cd ddos-trojan__*
+*__$cd Ddos-Tool__*
 
 *__$ls__*
 
