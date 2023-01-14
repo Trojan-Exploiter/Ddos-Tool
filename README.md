@@ -1,4 +1,4 @@
-# Ddos-Trojan
+# Ddos Attack 
 
 
 # What is a DDoS Attack?
