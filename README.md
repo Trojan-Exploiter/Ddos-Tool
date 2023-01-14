@@ -13,13 +13,13 @@ DDoS attacks achieve effectiveness using multiple compromised computer systems a
 # For Termux
 To use the DRipper type the following commands in Termux:
 
-*$pkg install git -y*
+*__$pkg install git -y__*
 
-*$pkg install python -y*
+*__$pkg install python -y__*
 
-*$pkg install python3 -y*
+*__$pkg install python3 -y__*
 
 __$git clone https://github.com/Trojan-Exploiter/Ddos-Tool.git__
 
-*$cd ddos-trojan*
+*__$cd ddos-trojan__*
 
